@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Subha  
+I am a passionate software Tester 
 <!--
 **subhalg/subhalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
